@@ -17,5 +17,5 @@ An AI-driven inspection tool engineered for autonomous drone operators. It utili
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
+   git clone [https://github.com/Turki711i/tactical-drone-analyzer.git](https://github.com/Turki711i/tactical-drone-analyzer.git)
+   cd tactical-drone-analyzer
