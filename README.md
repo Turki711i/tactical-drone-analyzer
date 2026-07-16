@@ -2,6 +2,10 @@
 
 ## Overview
 An AI-driven inspection tool engineered for autonomous drone operators. It utilizes a dual-layer multimodal vision-language pipeline to translate raw, real-time aerial feeds into immediate, text-based situational awareness, accelerating tactical decision-making in security and surveillance operations.
+## How to Use
+1. **Upload:** Drag and drop an aerial reconnaissance image into the "Aerial Image Upload" box. The system will automatically generate a contextual scene description in "1. Automated Scene Description".
+2. **Query:** Once the image is processed, type your specific tactical question (e.g., "Are there any vehicles?") in the "Tactical Question" box.
+3. **Analyze:** Click the "Submit Query" button. The result will appear in "2. VQA Extraction Result". You can perform multiple queries on the same image without re-uploading.
 
 ## Architecture & Features
 - **Event-Driven UI:** Decoupled execution logic using Gradio to mimic real-world tactical workflows.
